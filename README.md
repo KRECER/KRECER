@@ -25,4 +25,4 @@ I try to avoid building backends and use SaaS instead.
 <img align="left" alt="Contentful" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/472182.png?raw=true" />
 <img align="left" alt="VS-Code" width="26px" src="https://github.com/samfromaway/samfromaway/blob/master/.github/images/visual-studio-code.png?raw=true" /><br/><br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRECER)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRECER&theme=dar)](https://github.com/anuraghazra/github-readme-stats)
